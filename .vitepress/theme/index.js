@@ -1,6 +1,5 @@
 import DefaultTheme from "vitepress/theme";
 import CodeTabs from "./components/CodeTabs.vue";
-// import './custom.css'
 
 export default {
 	extends: DefaultTheme,
@@ -9,4 +8,3 @@ export default {
 		app.component("CodeTabs", CodeTabs);
 	},
 };
-

@@ -1,109 +1,130 @@
-# 📘 SEM4 — Subjects · Labs · PYQs
+<div align="center">
 
-> A neat, quick-access hub for SEM4 resources — subjects, lab lists and previous year questions.
+# 📘 SEM 4 Resource Hub
 
-<p align="center">
-  <img alt="badge-subjects" src="https://img.shields.io/badge/Subjects-5-blue?style=for-the-badge" />
-  <img alt="badge-labs" src="https://img.shields.io/badge/Labs-4-green?style=for-the-badge" />
-  <img alt="badge-pyqs" src="https://img.shields.io/badge/PYQs-Mid%2FEnd-orange?style=for-the-badge" />
-</p>
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-top: 10px;">
+  <img src="https://img.shields.io/badge/📚_Subjects-5-blue?style=flat&logo=bookstack" alt="Subjects Badge" />
+  <img src="https://img.shields.io/badge/🧪_Labs-4-green?style=flat&logo=flask" alt="Labs Badge" />
+  <img src="https://img.shields.io/badge/📝_PYQs-Mid%2FEnd-orange?style=flat&logo=googledocs" alt="PYQs Badge" />
+</div>
+
+</div>
+
+<div align="center">
+
+## 🧭 Quick Navigation
+
+</div>
+
+<div align = "center">
+
+<table align = "center">
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/📚-SUBJECTS-6366F1?style=flat-square&labelColor=312E81" alt="Subjects"/><br/>
+<sub>Core & elective courses</sub><br/>
+<a href="#📚-subjects"><b>Explore →</b></a>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🧪-LABS-10B981?style=flat-square&labelColor=065F46" alt="Labs"/><br/>
+<sub>Practical sessions</sub><br/>
+<a href="#🧪-labs"><b>Explore →</b></a>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/📖-PYQS-F59E0B?style=flat-square&labelColor=92400E" alt="PYQs"/><br/>
+<sub>Previous year papers</sub><br/>
+<a href="#📖-pyqs"><b>Explore →</b></a>
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
-## Quick nav
+<div align="center">
 
-| Subjects | Labs | PYQs |
-|---:|:---:|:---:|
-| 🔖 [Subjects](#subjects) — core SEM4 list | 🧪 [Labs](#labs) — sessions & focus | 📚 [PYQs](#pyqs-previous-year-questions) — Midsem / Endsem |
+## 📚 Subjects
 
----
+_Core SEM 4 curriculum — Click to explore_
 
-## Subjects
-<a name="subjects"></a>
-<details>
-<summary><strong>Click to expand Subjects</strong> — SEM4 subjects</summary>
+</div>
 
-Here are the SEM4 subjects (as provided):
+<details open>
+<summary><b>🔽 View All Subjects</b></summary>
 
-- 📁 CS204: Theory of Computation
-- 📁 CS205: Computer Architecture & Organization
-- 📁 CS206: Algorithms
-- 📁 CS207: Signal & Data Communication
-- 📁 MA221: Math IV (Introduction to Stochastic Process)
+<div align="center">
 
-**Quick tips**
+|  Code   | Subject                                                |      Resources      |
+| :-----: | :----------------------------------------------------- | :-----------------: |
+| `CS204` | **Theory of Computation**                              | [📂 Open](./CS204/) |
+| `CS205` | **Computer Architecture & Organization**               | [📂 Open](./CS205/) |
+| `CS206` | **Algorithms**                                         | [📂 Open](./CS206/) |
+| `CS207` | **Signal & Data Communication**                        | [📂 Open](./CS207/) |
+| `MA221` | **Mathematics-IV(Introduction to Stochastic Process)** | [📂 Open](./MA221/) |
 
-- Add lecture notes and solved examples inside `branch/cs/SEM4/<Subject>/`.
-- Keep PYQs under `PYQs/<Subject>/` for consistent linking.
+</div>
 
 </details>
 
 ---
 
-## Labs
-<a name="labs"></a>
-<details>
-<summary><strong>Click to expand Labs</strong> — SEM4 lab folders</summary>
+<div align="center">
 
-The SEM4 lab folders (from your attachment):
+## 🧪 Labs
 
-- 📁 CS208: Object Oriented Programming Lab
-- 📁 CS209: Algorithms Lab
-- 📁 CS210: Signal & Data Communication Lab
-- 📁 CS211: Applied Probability Lab
+_Hands-on practical sessions_
 
-**Notes**
+</div>
 
-- If these folders don't exist yet in the repo, I can create them and add a placeholder `README.md` in each.
-- To link lab manuals or experiment PDFs here, place files under `branch/cs/SEM4/labs/<LabFolder>/` (or inside `branch/cs/SEM4/<LabFolder>/`) and I'll add direct links.
+<details open>
+<summary><b>🔽 View All Labs</b></summary>
 
-</details>
+<div align="center">
 
----
+| Lab Code | Laboratory                                 |      Resources      |
+| :------: | :----------------------------------------- | :-----------------: |
+| `CS208`  | **Object Oriented Programming Laboratory** | [📂 Open](./CS208/) |
+| `CS209`  | **Algorithm Laboratory**                   | [📂 Open](./CS209/) |
+| `CS210`  | **Signal & Data Communication Laboratory** | [📂 Open](./CS210/) |
+| `CS211`  | **Applied Probability Laboratory**         | [📂 Open](./CS211/) |
 
-## PYQs (Previous Year Questions)
-<a name="pyqs-previous-year-questions"></a>
-<details>
-<summary><strong>Click to expand PYQs</strong> — organized Midsem & Endsem</summary>
-
-Organize PYQs by subject under `PYQs/<Subject>/` with filenames like `Subject_Mid_YYYY.pdf` or `Subject_End_YYYY.pdf`.
-
-<details>
-<summary><em>Midsem</em></summary>
-
-- Example: `PYQs/CS204/CS204_Mid_2024.pdf`
-- Example: `PYQs/MA221/MA221_Mid_2023.pdf`
-
-</details>
-
-<details>
-<summary><em>Endsem</em></summary>
-
-- Example: `PYQs/CS204/CS204_End_2024.pdf`
-- Example: `PYQs/CS206/CS206_End_2023.pdf`
-
-</details>
-
-**Add links** — when you add PDFs to the repository I can insert direct links here.
+</div>
 
 </details>
 
 ---
 
-## Resources & Checklist
+<div align="center">
 
-- [ ] Add real PYQ PDFs under `PYQs/` (one folder per subject)
-- [ ] Add lab manuals / sample code under `branch/cs/SEM4/` (e.g., `labs/`, `code/`)
-- [ ] Add short README files inside each subject folder explaining naming conventions
+## 📖 PYQs
 
----
+_Previous Year Questions — Your exam prep toolkit_
 
-## How to contribute
+</div>
 
-- To add a PYQ: create `PYQs/<Subject>/` and name files like `Subject_Mid_YYYY.pdf`.
-- To link a PDF here, paste a relative link (e.g., `[CS204 Mid 2024](./PYQs/CS204/CS204_Mid_2024.pdf)`).
-- If you want me to create the lab folders and placeholders now, say "create SEM4 lab folders" and I'll add them.
+<details open>
+<summary><b>🔽 About PYQs</b></summary>
 
----
+### 📍 Where to find PYQs?
 
-*Want a different style (visual cards, subject pages with images, or autogenerated index pages)? Tell me which and I’ll implement it.*
+PYQs have been distributed to individual **subject** for better organization. Each subject maintains its own collection of:
+
+<div align="center">
+
+📝 **Midsem Papers** • 📝 **Endsem Papers** • 📝 **Minor Exams**
+
+</div>
+
+### 🎯 Quick Access
+
+Navigate to any subject using the [📚 Subjects section ↑](#📚-subjects) to access its dedicated PYQ collection.
+
+</details>
+
+<div align="center">
+
+### ⭐ Star [this](https://github.com/raj8664/Prep) repo if you found it helpful!
+
+![GitHub Stars](https://img.shields.io/github/stars/raj8664/Prep?style=social)
+
+</div>

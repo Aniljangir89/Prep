@@ -50,8 +50,6 @@
 <details>
 <summary><b>How to add resources</b></summary>
 
-<br/>
-
 ### Option A: Upload PDFs
 
 ```
@@ -65,27 +63,17 @@ CE102/
 
 Add your Google Drive share link to the table above following the existing format.
 
-<br/>
-
 **📝 Naming Convention**
 
 - For exams: `CE102_Mid_YYYY.pdf` or `CE102_End_YYYY.pdf`
 - For notes: `CE102_Lecture#_Topic.pdf`
 - For assignments: `CE102_Assignment#_YYYY.pdf`
 
-<br/>
-
 > 💡 **Important:** Only add files you have permission to share
-
-<br/>
 
 </details>
 
-<br/>
-
 ---
-
-<br/>
 
 <div align="center">
 

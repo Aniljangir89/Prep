@@ -1643,6 +1643,7 @@ Leetcode Solutions
 | [3439-find-minimum-diameter-after-merging-two-trees](./3439-find-minimum-diameter-after-merging-two-trees)                   |
 | [3627-find-minimum-time-to-reach-last-room-i](./3627-find-minimum-time-to-reach-last-room-i)                                 |
 | [3628-find-minimum-time-to-reach-last-room-ii](./3628-find-minimum-time-to-reach-last-room-ii)                               |
+| [4035-maximum-partition-factor](./4035-maximum-partition-factor)                                                             |
 
 ## 🏅 Topological Sort
 

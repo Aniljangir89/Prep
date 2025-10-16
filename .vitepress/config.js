@@ -1,3 +1,4 @@
+import markdownItKatex from "markdown-it-katex";
 import path from "path";
 import { fileURLToPath } from "url";
 import { defineConfig } from "vitepress";
@@ -190,6 +191,14 @@ export default withMermaid(
 				dark: "github-dark",
 			},
 			html: true,
+			config: (md) => {
+				md.use(markdownItKatex, {
+					output: "html",
+					throwOnError: false,
+					errorColor: " #cc0000",
+					copy_tex: false,
+				});
+			},
 		},
 	}),
 );

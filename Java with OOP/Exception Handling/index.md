@@ -3,11 +3,11 @@
 
 # 🚨 Java Exception Handling - Complete Guide
 
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
-[![Exception Handling](https://img.shields.io/badge/Exception-Handling-red?style=for-the-badge)]()
-[![Documentation](https://img.shields.io/badge/Documentation-Complete-green?style=for-the-badge)]()
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)](https://www.oracle.com/java/)
+[![Exception Handling](https://img.shields.io/badge/Exception-Handling-red?style=flat)]()
+[![Documentation](https://img.shields.io/badge/Documentation-Complete-green?style=flat)]()
 
-_A comprehensive guide to mastering Exception Handling in Java with examples, best practices, and advanced concepts_
+- A comprehensive guide to mastering Exception Handling in Java with examples, best practices, and advanced concepts\_
 
 - Exception handling is not just about preventing crashes—it's about building resilient, maintainable, and user-friendly applications.
 
@@ -19,21 +19,21 @@ _A comprehensive guide to mastering Exception Handling in Java with examples, be
 
 ## 📋 Table of Contents
 
-- [🎯 Introduction](#-introduction)
-- [🧠 What is an Exception?](#-what-is-an-exception)
+- [🎯 Introduction](#🎯-introduction)
+- [🧠 What is an Exception?](#🧠-what-is-an-exception)
 - [🏗️ Exception Hierarchy](#️-exception-hierarchy)
-- [📚 Types of Exceptions](#-types-of-exceptions)
-- [🛠️ Exception Handling Keywords](#️-exception-handling-keywords)
-- [🎪 Try-Catch Mechanism](#-try-catch-mechanism)
-- [🔄 Multiple Catch Blocks](#-multiple-catch-blocks)
-- [🧹 Finally Block](#-finally-block)
-- [🎯 Throw vs Throws](#-throw-vs-throws)
-- [🔧 Custom Exceptions](#-custom-exceptions)
-- [🌊 Exception Propagation](#-exception-propagation)
-- [🎨 Best Practices](#-best-practices)
-- [⚡ Advanced Concepts](#-advanced-concepts)
-- [💡 Real-World Examples](#-real-world-examples)
-- [📖 Summary](#-summary)
+- [📚 Types of Exceptions](#📚-types-of-exceptions)
+- [🛠️ Exception Handling Keywords](#🛠️-exception-handling-keywords)
+- [🎪 Try-Catch Mechanism](#🎪-try-catch-mechanism)
+- [🔄 Multiple Catch Blocks](#🔄-multiple-catch-blocks)
+- [🧹 Finally Block](#🧹-finally-block)
+- [🎯 Throw vs Throws](#🎯-throw-vs-throws)
+- [🔧 Custom Exceptions](#🔧-custom-exceptions)
+- [🌊 Exception Propagation](#🌊-exception-propagation)
+- [🎨 Best Practices](#🎨-best-practices)
+- [⚡ Advanced Concepts](#⚡-advanced-concepts)
+- [💡 Real-World Examples](#💡-real-world-examples)
+- [📖 Summary](#📖-summary)
 
 ---
 
@@ -707,13 +707,13 @@ public class FinallyVsReturn {
 }
 ```
 
-# 🔑 `final`, `finally`, and `finalize()`
+## 🔑 `final`, `finally`, and `finalize()`
 
 In Java, `final`, `finally`, and `finalize()` look similar but serve very different purposes.
 
 ---
 
-## 1.`final` (Keyword)
+## 🤜 `final` (Keyword)
 
 - Used for **variables, methods, and classes**.
 - Prevents modification, overriding, or inheritance.
@@ -739,7 +739,7 @@ final class C {}
 // class D extends C {} ❌ Error
 ```
 
-## 2.`finally` (Block)
+## 🫱 `finally` (Block)
 
 - Used with **try-catch** in exception handling.
 - **Purpose:** Ensures that cleanup code (like closing files, releasing resources) always executes.
@@ -758,7 +758,7 @@ try {
 }
 ```
 
-## 3.`finalize()` (Method)
+## 🫰 `finalize()` (Method)
 
 - Defined in the `java.lang.Object` class.
 - **Purpose:** Called by the **Garbage Collector (GC)** before an object is destroyed.

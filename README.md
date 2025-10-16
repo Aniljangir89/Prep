@@ -57,7 +57,7 @@ Prep/
 
 If you have questions about contributing:
 
-- Check out [GuideLines](https://github.com/RAJ8664/Prep/blob/main/contribution.md)
+- Check out [GuideLines](https://github.com/RAJ8664/Prep/blob/main/CONTRIBUTING.md)
 
 ---
 

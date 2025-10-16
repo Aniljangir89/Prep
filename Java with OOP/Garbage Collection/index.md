@@ -6,17 +6,17 @@
 
 ## 📋 Table of Contents
 
-1. [What is Garbage Collection?](#what-is-garbage-collection)
-2. [Memory Management in Java](#memory-management-in-java)
-3. [Heap Memory Structure](#heap-memory-structure)
-4. [Types of References](#types-of-references)
-5. [Garbage Collection Process](#garbage-collection-process)
-6. [GC Algorithms](#gc-algorithms)
-7. [Generational Garbage Collection](#generational-garbage-collection)
-8. [GC Tuning Parameters](#gc-tuning-parameters)
-9. [Performance Monitoring](#performance-monitoring)
-10. [Best Practices](#best-practices)
-11. [Common Memory Issues](#common-memory-issues)
+- [🎯 What is Garbage Collection?](#🎯-what-is-garbage-collection)
+- [🏗️ Memory Management in Java](#🏗️-memory-management-in-java)
+- [🏠 Heap Memory Structure](#🏠-heap-memory-structure)
+- [🔗 Types of References](#🔗-types-of-references)
+- [⚙️ Garbage Collection Process](#⚙️-garbage-collection-process)
+- [🎯 GC Algorithms](#🎯-gc-algorithms)
+- [👶 Generational Garbage Collection](#👶-generational-garbage-collection)
+- [🛠️ GC Tuning Parameters](#🛠️-gc-tuning-parameters)
+- [📈 Performance Monitoring](#📈-performance-monitoring)
+- [✅ Best Practices](#✅-best-practices)
+- [⚠️ Common Memory Issues](#⚠️-common-memory-issues)
 
 ---
 

@@ -8,24 +8,20 @@
 
 ## 📚 Table of Contents
 
-1. [Introduction to Spring Framework](#introduction-to-spring-framework)
-2. [Core Spring Concepts](#core-spring-concepts)
-3. [Inversion of Control (IoC)](#inversion-of-control-ioc)
-4. [Dependency Injection (DI)](#dependency-injection-di)
-5. [Spring IoC Container](#spring-ioc-container)
-6. [Bean Management](#bean-management)
-7. [Aspect-Oriented Programming (AOP)](#aspect-oriented-programming-aop)
-8. [Spring MVC](#spring-mvc)
-9. [Data Access Layer](#data-access-layer)
-10. [Transaction Management](#transaction-management)
-11. [Spring Boot](#spring-boot)
-12. [Spring Boot Auto-Configuration](#spring-boot-auto-configuration)
-13. [Spring Boot Starters](#spring-boot-starters)
-14. [Spring Boot Actuator](#spring-boot-actuator)
-15. [Profiles and Configuration](#profiles-and-configuration)
-16. [Security](#security)
-17. [Testing](#testing)
-18. [Advanced Topics](#advanced-topics)
+- [🚀 Introduction to Spring Framework](#🚀-introduction-to-spring-framework)
+- [🔄 Core Spring Concepts](#🔄-core-spring-concepts)
+- [🏗️ Inversion of Control (IoC)](#🏗️-inversion-of-control-ioc)
+- [🔥 Dependency Injection (DI)](#🔥-dependency-injection-di)
+- [🏗️ Spring IoC Container](#🏗️-spring-ioc-container)
+- [🔧 Bean Management](#🔧-bean-management)
+- [🎯 Aspect-Oriented Programming (AOP)](#🎯-aspect-oriented-programming-aop)
+- [🌐 Spring MVC](#🌐-spring-mvc)
+- [💾 Data Access Layer](#💾-data-access-layer)
+- [💳 Transaction Management](#💳-transaction-management)
+- [⚙️ Spring Boot Auto-Configuration](#⚙️-spring-boot-auto-configuration)
+- [📊 Spring Boot Actuator](#📊-spring-boot-actuator)
+- [🔐 Security](#🔐-spring-security)
+- [🧪 Testing](#🧪-testing)
 
 ---
 
@@ -161,7 +157,7 @@ graph TB
     D --> D2[Technology Independence]
 ```
 
-### 1. Inversion of Control (IoC)
+## 🏗️ Inversion of Control (IoC)
 
 IoC is a design principle where the control of object creation and management is transferred from the application code to an external container.
 
@@ -192,7 +188,7 @@ public class OrderService {
 }
 ```
 
-### 2. Dependency Injection (DI)
+## 🔥 Dependency Injection (DI)
 
 DI is a technique for implementing IoC where dependencies are injected into objects rather than objects creating their dependencies.
 

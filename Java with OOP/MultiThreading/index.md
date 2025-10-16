@@ -2,9 +2,9 @@
 
 <div align="center">
 
-![Java Multithreading](https://img.shields.io/badge/Java-Multithreading-orange?style=for-the-badge&logo=java)
-![Beginner Friendly](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-green?style=for-the-badge)
-![Complete Guide](https://img.shields.io/badge/Guide-Complete-blue?style=for-the-badge)
+![Java Multithreading](https://img.shields.io/badge/Java-Multithreading-orange?style=flat&logo=java)
+![Beginner Friendly](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-green?style=flat)
+![Complete Guide](https://img.shields.io/badge/Guide-Complete-blue?style=flat)
 
 _Master Java Multithreading from Ground Up_ 🚀
 
@@ -14,16 +14,16 @@ _Master Java Multithreading from Ground Up_ 🚀
 
 ## 📚 Table of Contents
 
-1. [🌟 Introduction](#-introduction)
-2. [🔰 Basic Concepts](#-basic-concepts)
-3. [🏗️ Thread Creation & Management](#️-thread-creation--management)
-4. [🔒 Synchronization & Thread Safety](#-synchronization--thread-safety)
-5. [💬 Inter-Thread Communication](#-inter-thread-communication)
-6. [⚡ Advanced Concurrency Utilities](#-advanced-concurrency-utilities)
-7. [🎯 Real-World Examples & Patterns](#-real-world-examples--patterns)
-8. [🚀 Performance & Best Practices](#-performance--best-practices)
-9. [🐛 Common Pitfalls & Debugging](#-common-pitfalls--debugging)
-10. [📖 Further Reading](#-further-reading)
+1. [🌟 Introduction](#🌟-introduction)
+2. [🔰 Basic Concepts](#🔰-basic-concepts)
+3. [🏗️ Thread Creation & Management](#🏗️-thread-creation--management)
+4. [🔒 Synchronization & Thread Safety](#🔒-synchronization--thread-safety)
+5. [💬 Inter-Thread Communication](#💬-inter-thread-communication)
+6. [⚡ Advanced Concurrency Utilities](#⚡-advanced-concurrency-utilities)
+7. [🎯 Real-World Examples & Patterns](#🎯-real-world-examples--patterns)
+8. [🚀 Performance & Best Practices](#🚀-performance--best-practices)
+9. [🐛 Common Pitfalls & Debugging](#🐛-common-pitfalls--debugging)
+10. [📖 Further Reading](#📖-further-reading)
 
 ---
 

@@ -1,1 +1,0 @@
-import{_ as t,c as e,o as r}from"./chunks/framework.BTsuxa0O.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"contributors/index.md","filePath":"contributors/index.md"}'),o={name:"contributors/index.md"};function n(a,s,c,i,d,p){return r(),e("div")}const f=t(o,[["render",n]]);export{m as __pageData,f as default};
